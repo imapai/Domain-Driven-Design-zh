@@ -3,16 +3,16 @@ module.exports = {
   // 网站的标题
   title: "领域驱动设计 中文",
   // 上下文根
-  base: "/doc-ddd/",
+  base: "/Domain-Driven-Design-zh/",
   themeConfig: {
     // 假定是 GitHub. 同时也可以是一个完整的 GitLab URL
-    repo: "gdut-yy/Domain-Driven-Design-zh",
+    repo: "imapai/Domain-Driven-Design-zh",
     // 自定义仓库链接文字。默认从 `themeConfig.repo` 中自动推断为
     // "GitHub"/"GitLab"/"Bitbucket" 其中之一，或是 "Source"。
     repoLabel: "Github",
     // 以下为可选的编辑链接选项
     // 假如你的文档仓库和项目本身不在一个仓库：
-    docsRepo: "gdut-yy/Domain-Driven-Design-zh",
+    docsRepo: "impapai/Domain-Driven-Design-zh",
     // 假如文档放在一个特定的分支下：
     docsBranch: "master/docs",
     // 默认是 false, 设置为 true 来启用

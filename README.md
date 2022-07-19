@@ -2,7 +2,8 @@
 
 《领域驱动设计:软件核心复杂性应对之道》中文翻译
 
-在线阅读：[http://gdut_yy.gitee.io/doc-ddd/](http://gdut_yy.gitee.io/doc-ddd/)
+由于原仓库提供的在线阅读地址无法打开，在 Fork 项目后重新部署 [在线阅读](https://imapai.github.io/Domain-Driven-Design-zh/)
+，另外可在 /book 目录下下载英文版本书籍的 PDF 文件
 
 <img src="./docs/cover.jpg" width=40%>
 
@@ -44,14 +45,14 @@
 yarn global add vuepress
 
 # 本地开发
-git clone https://github.com/gdut-yy/Domain-Driven-Design-zh.git
+git clone https://github.com/imapai/Domain-Driven-Design-zh.git
 cd Domain-Driven-Design-zh/
 yarn docs:dev
 
 # 本地阅读
-http://localhost:8080/doc-ddd/
+http://localhost:8080/Domain-Driven-Design-zh/
 ```
 
 ## License
 
-[MIT](https://github.com/gdut-yy/Domain-Driven-Design-zh/blob/master/LICENSE)
+[MIT](https://github.com/imapai/Domain-Driven-Design-zh/blob/master/LICENSE)
